@@ -21,7 +21,7 @@ gTTS (Google Text-to-Speech) is a Python library and CLI tool to interface with 
 
 
 ## <b>How does it works?</b>
-The Whisper architecture is a simple end-to-end approach, implemented as an encoder-decoder Transformer. Input audio is split into 30-second chunks, converted into a log-Mel spectrogram, and then passed into an encoder. A decoder is trained to predict the corresponding text caption, intermixed with special tokens that direct the single model to perform tasks such as language identification, phrase-level timestamps, multilingual speech transcription, and to-English speech translation. 
+The Whisper architecture is a simple end-to-end approach, implemented as an encoder-decoder Transformer. Input audio is split into 30-second chunks, converted into a log-Mel spectrogram, and then passed into an encoder. A decoder is trained to predict the corresponding text caption, intermixed with special tokens that direct the single model to perform tasks such as language identification, phrase-level timestamps, multilingual speech transcription, and to-English speech translation.
 
 <img width="315" alt="workflow" src="https://user-images.githubusercontent.com/108980831/213866692-559b5d8c-66f4-460f-ab71-26ec6f9a6550.png">
 
