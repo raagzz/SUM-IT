@@ -1,0 +1,6 @@
+streamlit~=1.38.0
+openai-whisper~=20240930
+torch~=2.4.1
+pytubefix~=8.1.1
+gtts~=2.5.3
+transformers~=4.44.1
