@@ -1,6 +1,8 @@
 # <b>SUM-IT</b>: Video Summarizing AI Tool
 ## <b>Winning Hackathon Solution - ICamp</b>
 
+> Try our app out! https://sum-it.streamlit.app/
+
 ![](screenshot_app_2.png)
 ![](screenshot_app_1.png)
 
