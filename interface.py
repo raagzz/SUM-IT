@@ -67,6 +67,6 @@ if st.button("Transcribe"):
 
     # Clean up temporary files
     os.remove("audio_english.mp3")
-
+    os.remove("output.mp3")
     # Uncomment the following line to add a download button for the summary
     # st.download_button('Download Summary', summary)
